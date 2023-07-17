@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
   return (
     <>
-    <footer>
+    <footer className='footer'>
         CopyRight &copy; 2023
     </footer>
     </>
